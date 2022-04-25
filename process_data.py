@@ -1,3 +1,9 @@
-import pandas as pd
+import numpy as np
 
-print('hi')
+cat = 1 + 1
+
+for i in range(cat):
+    print('hi')
+
+
+    
