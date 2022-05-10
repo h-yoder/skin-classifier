@@ -9,3 +9,7 @@ based classifier which can classify malignant versus benign melanoma which
 may be hard to distinguish or know from an untrained eye. Moreover, we seek
 to demonstrate how the disparity in accessible medical resources may impact
 classification.
+
+ISIC Data (dermoscopic) can be retreieved from:
+https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery
+
